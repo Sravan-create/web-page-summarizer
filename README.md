@@ -23,4 +23,10 @@ The summarizer handles long articles by splitting the text into chunks and proce
 ### Libraries
 Install the required dependencies using the command below:
 ```bash
-pip install -r requirements.txt
+requirements.txt
+text
+Copy code
+requests
+beautifulsoup4
+transformers
+torch
